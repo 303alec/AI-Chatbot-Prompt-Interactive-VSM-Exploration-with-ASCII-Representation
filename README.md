@@ -1,2 +1,0 @@
-# AI-Chatbot-Prompt-Interactive-VSM-Exploration-with-ASCII-Representation
-An interactive model visualizing embedded system design within a Virtual System Methodology (VSM) environment, incorporating principles of Virtual Logic and Semiosis. The AI chatbot will generate a static ASCII representation of the interactive visualization, simulating certain interactive aspects through a menu-driven interface.
