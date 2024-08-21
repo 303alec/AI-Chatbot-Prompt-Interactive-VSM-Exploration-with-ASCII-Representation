@@ -120,13 +120,3 @@
   - Consider incorporating more visual elements or allowing for more complex user interactions within the limitations of the chatbot environment
 )_ ]
 ```
-
-**Key Changes:**
-
--   **Menu-Driven Interface:** The core interaction is now through a menu system, providing clear options for users to explore different aspects of the visualization
--   **Enhanced Clarity:** Instructions for each interactive element are more explicit, focusing on the information to be displayed when a particular option is selected
--   **Streamlined ASCII Representation:** The structure is simplified, emphasizing the menu and system overview
-
-Remember that this is still a simulated interactive experience within the constraints of a text-based environment. The level of interactivity and visual richness will depend on the capabilities of the chatbot and the output environment.
-
-Let me know if you have any further questions or requests for modifications! 
